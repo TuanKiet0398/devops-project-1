@@ -4,6 +4,10 @@
 
 This project deploys the **Bookinfo** microservices application on **Amazon EKS** using a full GitOps-based DevOps stack. This document describes the end-to-end workflow — from a user hitting the domain to how code changes are built, deployed, and observed.
 
+## Architecture
+
+![Architecture Design](architecture-design.png)
+
 ---
 
 ## 1. User Access Flow
